@@ -3,8 +3,6 @@
 
 - I’m currently learning **Python, MATLAB, Simulink and LaTeX**
 
-- Sometime I write articles on [natureofreality.substack.com](natureofreality.substack.com)
-
 - Ask me about **Physics, Electronics, Philosophy**
 
 - Reach me at **humayunrashidh@gmail.com**
