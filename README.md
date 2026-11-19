@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Humayun R. Himu</h1>
+<h1 align="center">Hello there, I'm Humayun Rashid Himu</h1>
 <h3 align="center">An undergraduate Electrical Engineering student from Bangladesh</h3>
 
 - I’m currently learning **Python, MATLAB, Simulink and LaTeX**
