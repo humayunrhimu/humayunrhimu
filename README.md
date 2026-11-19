@@ -5,7 +5,7 @@
 
 - Ask me about **Physics, Electronics, Philosophy**
 
-- Reach me at **humayunrashidh@gmail.com**
+- Reach me at **humayun.rashid.eee.iu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
